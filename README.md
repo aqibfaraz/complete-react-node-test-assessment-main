@@ -79,6 +79,8 @@ After completing your challenges:
 
 ---
 
+# complete-react-node-test-assessment-main
+
 ## Latest Project Updates (2026-07-09)
 
 This section is added as a final update log and setup reference based on the latest code changes and runtime fixes.
